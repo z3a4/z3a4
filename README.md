@@ -8,7 +8,7 @@
   In early 2023 I started with Python and built my first Discord bot. After that I got into web development and worked my way up from HTML and CSS to React, Next.js and TypeScript. I'm excited to see what comes next.<br><br>
   <strong>I'm currently working on:</strong><br>
   <a href="https://flare.best"><strong>Flare</strong></a> - a free, premier Discord all-in-one app<br>
-  <a href="https://mynexstudios.com"><strong>Mynex Studios</strong></a> - open source tools for beginners, free & community-driven
+  <!-- <a href="https://mynexstudios.com"><strong>Mynex Studios</strong></a> - open source tools for beginners, free & community-driven -->
 </p>
 
 <br>
@@ -27,7 +27,7 @@
   <a href="https://discord.com/users/cyberh4ck3r">
     <img src="https://img.shields.io/badge/cyberh4ck3r-8ba2c2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <br>
+<br>
   <a href="mailto:contact@flare.best">
     <img src="https://img.shields.io/badge/contact@flare.best-8ba2c2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
