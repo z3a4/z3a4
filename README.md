@@ -39,10 +39,6 @@
   
 </div>
 
-<p align="center">
-  <a href="https://discord.com/users/1326825068982177803"><img src="https://lanyard.cnrad.dev/api/1326825068982177803?hideDecoration=true&hideSpotify=true" /></a>
-</p>
-
 
 <!--  
 <br>
