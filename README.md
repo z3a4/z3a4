@@ -25,8 +25,8 @@
 <h3 align="center">Contact</h3>
 
 <div align="center">
-  <a href="https://discord.com/users/cyberh4ck3r">
-    <img src="https://img.shields.io/badge/cyberh4ck3r-8ba2c2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/id">
+    <img src="https://img.shields.io/badge/zynth-8ba2c2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 <br>
   <a href="mailto:contact@flare.best">
