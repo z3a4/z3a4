@@ -2,10 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=8ba2c2" />
 </div>
 
-<h1 align="center">Hey! I'm Nyxify, a passionate developer <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
+<h1 align="center">Hey! I'm Nyxify, founder of /pfp-hub. <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
 
 <p align="center">
-  Hi! I'm Nyxify, founder of /pfp-hub. I love meeting new people, hearing their stories, and making new connections.
+  I love meeting new people, hearing their stories, and making new connections.
   Feel free to reach out anytime!<br><br>
   <strong>I'm currently working on:</strong><br>
   <a href="https://flare.best"><strong>Flare</strong></a> - a free, premier Discord all-in-one app<br>
