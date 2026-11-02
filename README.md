@@ -8,7 +8,7 @@
   Feel free to reach out anytime!<br><br>
   <strong>I'm currently working on:</strong><br>
   <a href="https://discord.gg/pfp-hub"><strong>/pfp-hub</strong></a> - a free, premier Discord aesthetic & PFP hub<br>
-  <!-- <a href="https://flare.best"><strong>Flare</strong></a> - a free, premier Discord all-in-one app<br>
+  <a href="https://flare.best"><strong>Flare</strong></a> - a free, premier Discord all-in-one app<br>
   <!-- <a href="https://minelegends.xyz"><strong>MineLegends</strong></a> - a custom Minecraft Survival server<br>
   <!-- <a href="https://mynexstudios.com"><strong>Mynex Studios</strong></a> - open source tools for beginners, free & community-driven -->
 </p>
