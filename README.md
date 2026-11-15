@@ -28,11 +28,11 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://discord.com/users/729203484251127940">
-    <img src="https://lanyard.cnrad.dev/api/729203484251127940?hideTag=true&borderRadius=20px&theme=light&bg=d5dae1&showDisplayName=true" />
+    <img src="https://lanyard.cnrad.dev/api/729203484251127940?hideTag=true&borderRadius=24px&theme=light&bg=d5dae1&showDisplayName=true" />
   </a>
 
   <a href="https://discord.com/users/258689484135071746">
-    <img src="https://lanyard.cnrad.dev/api/258689484135071746?hideTag=false&borderRadius=20px&theme=dark&bg=1c2128&showDisplayName=true"" />
+    <img src="https://lanyard.cnrad.dev/api/258689484135071746?hideTag=false&borderRadius=24px&theme=dark&bg=1c2128&showDisplayName=true"" />
   </a>
 </div>
 
