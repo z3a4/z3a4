@@ -24,7 +24,7 @@
 
 <br> -->
 
-<h3 align="center">Contact me</h3>
+<h3 align="center">Connect with me</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://discord.com/users/729203484251127940">
