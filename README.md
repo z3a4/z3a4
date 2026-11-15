@@ -28,7 +28,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://discord.com/users/729203484251127940">
-    <img src="https://lanyard.cnrad.dev/api/729203484251127940?hideTag=true&borderRadius=20px&theme=dark&bg=000000" />
+    <img src="https://lanyard.cnrad.dev/api/729203484251127940?hideTag=true&borderRadius=20px&theme=light&bg=000000" />
   </a>
 
   <a href="https://discord.com/users/258689484135071746">
