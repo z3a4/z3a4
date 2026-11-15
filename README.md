@@ -32,7 +32,7 @@
   </a>
 
   <a href="https://discord.com/users/258689484135071746">
-    <img src="https://lanyard.cnrad.dev/api/258689484135071746?hideTag=false&borderRadius=20px&theme=light&bg=798dab&showDisplayName=true"" />
+    <img src="https://lanyard.cnrad.dev/api/258689484135071746?hideTag=false&borderRadius=20px&theme=light&bg=404b5c&showDisplayName=true"" />
   </a>
 </div>
 
