@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=8ba2c2" />
 </div>
 
-<h1 align="center">Hey! I'm Nyxify, founder of /pfp-hub. <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
+<h1 align="center">Hey! I'm Ben. <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
 
 <p align="center">I love meeting new people, hearing their stories, and making new connections.
   Feel free to reach out anytime!<br><br>
