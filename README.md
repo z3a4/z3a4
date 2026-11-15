@@ -30,6 +30,8 @@
   <a href="https://discord.com/users/729203484251127940">
     <a href="https://discord.com/users/729203484251127940"><img src="https://lanyard.cnrad.dev/api/729203484251127940?hideTag=true&borderRadius=20px&theme=dark&bg=121212" /></a>
   </a>
+
+<div align="right">
 <br>
   <a href="mailto:contact@flare.best">
     <img src="https://img.shields.io/badge/contact@flare.best-8ba2c2?style=for-the-badge&logo=gmail&logoColor=white" />
