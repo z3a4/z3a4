@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=py,nextjs,vite,react,ts,tailwind,nodejs,mysql" height="60" />
 </div>
 
-<br>
+<br> -->
 
 <h3 align="center">Contact</h3>
 
