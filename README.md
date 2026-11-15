@@ -27,13 +27,22 @@
 <h3 align="center">Contact</h3>
 
 <div align="center">
+  <a href="https://discord.com/users/729203484251127940">
+    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/729203484251127940?hideTag=true&borderRadius=20px&theme=dark&bg=121212)](https://discord.com/users/729203484251127940)" />
+  </a>
+<br>
+  <a href="mailto:contact@flare.best">
+    <img src="https://img.shields.io/badge/contact@flare.best-8ba2c2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> -->
+
+<!-- <div align="center">
   <a href="https://discord.com/users/id">
     <img src="https://img.shields.io/badge/zynth-8ba2c2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 <br>
   <a href="mailto:contact@flare.best">
     <img src="https://img.shields.io/badge/contact@flare.best-8ba2c2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> -->
   
 </div>
 
